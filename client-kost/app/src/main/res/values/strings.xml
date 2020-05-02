@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Kost Mawar </string>
+    <string name="kost_muraahh">Kost Mawar</string>
+    <string name="cari_kostan">LOGIN</string>
+    <string name="kost1">TODO</string>
+    <string name="textview">-Kost 5 juta pertahun\n-Kamar mandi dalam</string>
+    <string name="pesankost1">Pesan</string>
+    <string name="kost2">TODO</string>
+    <string name="textkost2">-Kost 10 juta pertahun\n-Kamar mandi masjid</string>
+    <string name="pesankost2">Pesan</string>
+    <string name="settings">Setting</string>
+    <string name="login">Login</string>
+    <string name="logo">TODO</string>
+    <string name="welcome_login">SELAMAT DATANG DI KOST MAWAR LOGIN BELOW</string>
+    <string name="username_login">Username</string>
+    <string name="register">Register</string>
+    <string name="password_login">Password</string>
+</resources>
