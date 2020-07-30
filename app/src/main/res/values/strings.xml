@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Kost Mawar </string>
+    <string name="kost_muraahh">Kost Mawar</string>
+    <string name="cari_kostan">LOGIN</string>
+    <string name="kost1">TODO</string>
+    <string name="textview">-Kost 5 juta pertahun\n-Kamar mandi dalam</string>
+    <string name="pesankost1">Pesan</string>
+    <string name="kost2">TODO</string>
+    <string name="textkost2">-Kost 10 juta pertahun\n-Kamar mandi masjid</string>
+    <string name="pesankost2">Pesan</string>
+    <string name="settings">Setting</string>
+    <string name="login">Login</string>
+    <string name="logo">TODO</string>
+    <string name="welcome_login">SELAMAT DATANG DI KOST MAWAR LOGIN BELOW</string>
+    <string name="username_login">Username</string>
+    <string name="register">Lewati</string>
+    <string name="password_login">Password</string>
+    <string name="pesan">PESAN</string>
+    <string name="harga_800000_fasilitas_kmd_kd_kasur_ac_wifi_24jam_loundry_tv">-ID : 0\n- Harga : 800000\n- Fasilitas : KMD,KD,KASUR,AC,WIFI,24JAM,LOUNDRY,TV</string>
+    <string name="jenaka_wanita_jw1_kost">Jenaka Wanita JW1 Kost</string>
+    <string name="kost_sabirin_eksklusif_s1">Kost Sabirin Eksklusif S1</string>
+    <string name="harga_1200000_fasilitas_ac_tv_wifi_loundry">-ID : 11\n- Harga : 1200000\n- Fasilitas : AC,TV,WIFI,LOUNDRY</string>
+    <string name="konfirmasi_pesanan1">Konfirmasi Pesanan</string>
+</resources>
