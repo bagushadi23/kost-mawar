@@ -1,8 +1,12 @@
 CLIENT WEB DEMO : http://ngekost.my.id/
-Login
-Admin
-Username : admin
-Password : admin123
-User
+
+##### login User
 Username : prpl
+
 Password : prpl123
+
+##### login admin
+
+Username : admin
+
+Password : admin123
